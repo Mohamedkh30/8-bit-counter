@@ -1,0 +1,206 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/questa/win64
+T_opt
+!s110 1628688824
+VKG^9>iQ4HzZ4EHcRIe1JO2
+04 5 4 work RX_tb fast 0
+=1-8cec4b11a089-6113d1b6-1d8-3a58
+Z1 o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.6c;65
+R0
+T_opt1
+!s110 1629660323
+VBMH<1cE38moWnIiSazTle1
+04 7 4 work counter fast 0
+=1-8cec4b11a089-6122a4a2-48-6c50
+R1
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1628720312
+V7=;eaVIz8ZL3<bZEk:dU[2
+04 18 4 work RX_tb_randomized_1 fast 0
+=1-8cec4b11a089-61144cb8-25e-157c
+R1
+R2
+n@_opt2
+R3
+R0
+vcounter
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 ahYL:P=Qdb]1[MA@=YYY42
+Ifz;?4XoG;>MT>6aIRdRAn2
+R0
+w1629660745
+8F:\questa\win64\8bit_Counter.v
+FF:\questa\win64\8bit_Counter.v
+L0 1
+Z5 OL;L;10.6c;65
+!s108 1629660994.000000
+!s107 F:\questa\win64\8bit_Counter.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:\questa\win64\8bit_Counter.v|
+!i113 0
+o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vRX
+Z6 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 mPbN3C[hVRN@9;g]KC4La2
+IAME[WLMJW@W]M=Z0mRRNU1
+Z7 !s105 Huffman_Code_sv_unit
+S1
+R0
+Z8 w1628722451
+Z9 8F:/questa/win64/Huffman_Code.sv
+Z10 FF:/questa/win64/Huffman_Code.sv
+L0 2
+R5
+Z11 !s108 1628722456.000000
+Z12 !s107 F:/questa/win64/Huffman_Code.sv|
+Z13 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|F:/questa/win64/Huffman_Code.sv|
+!i113 0
+Z14 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+n@r@x
+vRX_tb
+R6
+Z15 !s110 1628722456
+!i10b 1
+!s100 hSi=5fbL6U54O0K?95UZi3
+IdW1;OgIZQa`i=lP5Iznc60
+R4
+R7
+S1
+R0
+R8
+R9
+R10
+L0 103
+R5
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R2
+n@r@x_tb
+vRX_tb_randomized_1
+R6
+R15
+!i10b 1
+!s100 bHACbU<Tld12EF`Mz6?8b2
+IdS;XNS15U=UGni<L`JffO0
+R4
+R7
+S1
+R0
+R8
+R9
+R10
+L0 155
+R5
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R2
+n@r@x_tb_randomized_1
+vRX_tb_randomized_2
+R6
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 >C2@7n8jHKlDL?0QC<@;c3
+IoeQ@h1PYI^o`zB]VMco5X2
+R7
+S1
+R0
+R8
+R9
+R10
+L0 226
+R5
+R11
+R12
+R13
+!i113 0
+R14
+R2
+n@r@x_tb_randomized_2
+vserial_to_parallel
+R6
+!s110 1628611081
+!i10b 1
+!s100 ljdX0IjTWX1lWOKgYaGI20
+IDhAk^M7=i`;I6YOoLfM2i0
+R4
+R7
+S1
+R0
+w1628611071
+R9
+R10
+L0 1
+R5
+r1
+!s85 0
+31
+!s108 1628611080.000000
+R12
+R13
+!i113 0
+R14
+R2
+vSIPO
+R6
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 O6n<57H7?9alK2QiZcTW@2
+I=KUMhS=^]3L?Ai4WPg[1F2
+R7
+S1
+R0
+w1628690443
+R9
+R10
+L0 31
+R5
+!s108 1628690447.000000
+R12
+R13
+!i113 0
+R14
+R2
+n@s@i@p@o
